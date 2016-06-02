@@ -10,6 +10,7 @@
 	background: #086ed5;
 	padding-left: 6px;
 	padding-right:6px; 
+	display: block;
 }
 
 .global_nav_top{
@@ -118,4 +119,16 @@ a{
 	float: right;
 	height: 45px;
 
+}
+
+
+.frame_main{
+	width: 970px;
+	margin:0 auto;
+	height: 500px;
+	
+}
+
+.frame_main_content{
+	width: 
 }
